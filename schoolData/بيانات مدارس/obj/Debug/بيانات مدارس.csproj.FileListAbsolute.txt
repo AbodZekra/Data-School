@@ -1,0 +1,13 @@
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\bin\Debug\بيانات مدارس.exe.config
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\bin\Debug\بيانات مدارس.exe
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\bin\Debug\بيانات مدارس.pdb
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\obj\Debug\بيانات مدارس.csproj.AssemblyReference.cache
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\obj\Debug\بيانات_مدارس.Form1.resources
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\obj\Debug\بيانات_مدارس.Properties.Resources.resources
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\obj\Debug\بيانات مدارس.csproj.GenerateResource.cache
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\obj\Debug\بيانات مدارس.csproj.CoreCompileInputs.cache
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\obj\Debug\بيانات مدارس.exe
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\obj\Debug\بيانات مدارس.pdb
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\bin\Debug\System.Data.SQLite.dll
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\bin\Debug\System.Data.SQLite.xml
+E:\MY_program\C#\بيانات مدارس\بيانات مدارس\obj\Debug\بيانات مدارس.csproj.CopyComplete
